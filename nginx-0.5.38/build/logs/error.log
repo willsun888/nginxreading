@@ -1,0 +1,7 @@
+2017/09/21 23:22:34 [emerg] 9431#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/21 23:23:53 [emerg] 9517#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/21 23:26:17 [emerg] 9564#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/21 23:27:57 [emerg] 9592#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/21 23:28:41 [emerg] 9599#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/21 23:38:03 [emerg] 14884#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/21 23:38:40 [error] 14907#0: *1 open() "/Users/willsun/code/nginx-0.5.38/build//html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
